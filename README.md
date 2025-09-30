@@ -33,8 +33,12 @@ I enjoy turning repetitive tasks into efficient automated workflows and building
 
 ## 📌 Featured Projects  
 - 🔹 [Kitchen Assistant](https://github.com/JohnnySalvati/Kitchen) — A cooking assistant app for commercial kitchens to calculate ingredient quantities and costs.  
+- 🔹 [Autofiller](https://github.com/JohnnySalvati/Autofiller) — Python-based tool that automates form filling and repetitive data entry tasks.  
+- 🔹 [SignReady](https://github.com/JohnnySalvati/SignReady) — Web app for digital document signing and management, ensuring security and ease of use.  
+- 🔹 [SistemaCanchas_front](https://github.com/JohnnySalvati/SistemaCanchas_front) — React.js frontend for a sports field reservation system with a responsive UI.  
+- 🔹 [SistemaCanchas_back](https://github.com/JohnnySalvati/SistemaCanchas_back) — Node.js + SQL backend for managing sports field reservations and schedules.  
+- 🔹 [besaresStadistic](https://github.com/JohnnySalvati/besaresStadistic) — Data analysis tool built with Python and pandas for processing and visualizing statistics.  
 - 🔹 [Automation Scripts](https://github.com/JohnnySalvati) — A collection of Python tools for task automation, file handling, and data processing.  
-- 🔹 (Add 1–2 more repos you want to highlight with a short description).  
 
 ---
 
