@@ -50,7 +50,7 @@ I enjoy turning repetitive tasks into efficient automated workflows and building
 
 ## 📫 Let’s Connect  
 - 📧 Email: **miguelsalvati@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jose-miguel-salvati-4a798b238/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jose-miguel-salvati/)  
 - 🖥️ [Portfolio / GitHub](https://github.com/JohnnySalvati)  
 
 ---
